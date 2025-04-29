@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Dario (Drake-Designer)
 
-<!--
-**Drake-Designer/Drake-Designer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying Full-Stack Web Development at **Code Institute**.  
+💻 I love building websites that are not only beautiful, but also functional and user-friendly.  
+🎯 I'm focused on mastering **HTML**, **CSS**, **JavaScript** and **Python**.
 
-Here are some ideas to get you started:
+## 🚀 Projects & Learning Journey
+On my GitHub, you'll find:
+- Web projects created during my studies
+- Personal experiments and practice repositories
+- My learning progress toward becoming a full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🥁 A bit about me  
+Outside of coding, I enjoy playing and creating music (I'm a drummer!), and I also enjoy playing video games in my free time.
+
+## 📫 Let's connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dario-costarelli)
