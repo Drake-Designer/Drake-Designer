@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dario
+# 👋 Hi, I'm Dario!
 
 🎓 I'm currently studying Full-Stack Web Development at **Code Institute**.  
 💻 I love building websites that are not only beautiful, but also functional and user-friendly.  
