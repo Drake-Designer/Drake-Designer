@@ -24,25 +24,25 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Drake-Designer/Simon-Memory-Game" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Simon-Memory-Game&subtitle=Simon+Memory+Game&size=square" alt="Simon Memory Game" />
+      <a href="https://github.com/Drake-Designer/Dungeon-Escape" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Dungeon-Escape&subtitle=Dungeon+Escape&size=square" alt="Dungeon Escape" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Drake-Designer/Dario-Bootstrap-Portfolio" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Dario-Bootstrap-Portfolio&subtitle=Bootstrap+Portfolio&size=square" alt="Dario Bootstrap Portfolio" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Drake-Designer/Phaser-First-Game-Tutorial" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Phaser-First-Game-Tutorial&subtitle=Phaser+First+Game&size=square" alt="Phaser First Game Tutorial" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://github.com/Drake-Designer/Dungeon-Escape" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Dungeon-Escape&subtitle=Dungeon+Escape&size=square" alt="Dungeon Escape" />
+      <a href="https://github.com/Drake-Designer/Dario-Bootstrap-Portfolio" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Dario-Bootstrap-Portfolio&subtitle=Bootstrap+Portfolio&size=square" alt="Dario Bootstrap Portfolio" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Drake-Designer/Simon-Memory-Game" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Simon-Memory-Game&subtitle=Simon+Memory+Game&size=square" alt="Simon Memory Game" />
       </a>
     </td>
     <td align="center">
