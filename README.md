@@ -17,34 +17,52 @@
 ## 🚀 Live Projects Showcase  
 
 <p align="center">
-  <a href="https://game-abyss-a25a8ac090c2.herokuapp.com/">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://game-abyss-a25a8ac090c2.herokuapp.com/&subtitle=Game+Abyss&size=square" width="200" />
+
+  <!-- Game Abyss -->
+  <a href="https://github.com/Drake-Designer/Game-Abyss" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Game-Abyss&subtitle=Game+Abyss&size=square" width="200" />
   </a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/Drake-Designer/Heat">
+
+  <!-- Heat -->
+  <a href="https://github.com/Drake-Designer/Heat" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Heat&subtitle=Heat&size=square" width="200" />
   </a>
-  <a href="https://github.com/Drake-Designer/Dungeon-Escape">
+
+  <!-- Dungeon Escape -->
+  <a href="https://github.com/Drake-Designer/Dungeon-Escape" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Dungeon-Escape&subtitle=Dungeon+Escape&size=square" width="200" />
   </a>
-  <a href="https://github.com/Drake-Designer/Phaser-First-Game-Tutorial">
+
+  <!-- Phaser First Game -->
+  <a href="https://github.com/Drake-Designer/Phaser-First-Game-Tutorial" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Phaser-First-Game-Tutorial&subtitle=Phaser+First+Game&size=square" width="200" />
   </a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/Drake-Designer/Dario-Bootstrap-Portfolio">
+
+  <!-- Bootstrap Portfolio -->
+  <a href="https://github.com/Drake-Designer/Dario-Bootstrap-Portfolio" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Dario-Bootstrap-Portfolio&subtitle=Bootstrap+Portfolio&size=square" width="200" />
   </a>
-  <a href="https://github.com/Drake-Designer/Simon-Memory-Game">
+
+  <!-- Simon Memory Game -->
+  <a href="https://github.com/Drake-Designer/Simon-Memory-Game" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Simon-Memory-Game&subtitle=Simon+Memory+Game&size=square" width="200" />
   </a>
-  <a href="https://github.com/Drake-Designer/Django-Udemy-First_Project">
+
+  <!-- Django First Project -->
+  <a href="https://github.com/Drake-Designer/Django-Udemy-First_Project" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/Drake-Designer/Django-Udemy-First_Project&subtitle=Django+First+Project&size=square" width="200" />
   </a>
+
 </p>
+
 
 ---
 
